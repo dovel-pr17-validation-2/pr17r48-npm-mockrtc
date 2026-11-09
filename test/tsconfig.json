@@ -1,0 +1,12 @@
+{
+    "compilerOptions": {
+        "target": "es6",
+        "module": "commonjs",
+        "strict": true,
+        "skipLibCheck": true
+    },
+    "include": [
+        "../custom-typings/*.d.ts",
+        "**/*.ts",
+    ]
+}
